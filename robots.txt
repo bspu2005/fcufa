@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Запрет индексации служебных страниц (если есть)
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Запрет индексации страниц с параметрами (если используете фильтры или динамические URL)
+Disallow: /*?*
+Disallow: /*&*
+
+# Указываем путь к карте сайта
+Sitemap: https://yourwebsite.com/sitemap.xml
