@@ -11,4 +11,4 @@ Disallow: /*?*
 Disallow: /*&*
 
 # Указываем путь к карте сайта
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://bspu2005.github.io/fcufa/sitemap.xml
